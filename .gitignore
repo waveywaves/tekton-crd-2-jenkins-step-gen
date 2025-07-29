@@ -52,6 +52,3 @@ buildNumber.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Generated code output
-generated/ 
